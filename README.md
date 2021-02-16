@@ -58,7 +58,7 @@ Container platform monitoring system will consist of 3 main components:
    * Processor will build time series reports like number of requests per seconds, number of errors per second.
    * Metrics processor stores metrics/logs if necessary.
    
-![](https://imgur.com/bf0dK38)
+![](https://imgur.com/bf0dK38.png)
 
 #### HTTP Server
 

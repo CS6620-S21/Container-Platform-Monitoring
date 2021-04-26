@@ -73,8 +73,18 @@ Container platform monitoring system will consist of 3 main components:
    * Kubernetes
 
 ** **   
+
+## 5. Architecture 
+
+   * Prometheus server
+   * Prometheus Exporteer
+   * Prometheus UI
+   * Grafana
+   * Alert Manager
+
+** ** 
    
-## 5. Acceptance criteria
+## 6. Acceptance criteria
 
    * A system which identifies issues with containers which could lead to system failures.
    * The System Monitors different functions and operations performed by the containerized platform.
@@ -83,7 +93,7 @@ Container platform monitoring system will consist of 3 main components:
 
 ** ** 
 
-## 6.  Release Planning:
+## 7.  Release Planning:
 
    **Sprint 1:** Setup container platform and deploy applications on it. <br>
    **Sprint 2:** Investigate APIS or log collector technologies (fluentd). <br>

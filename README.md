@@ -82,7 +82,7 @@ Container platform monitoring system will consist of 3 main components:
    * Grafana
    * Alert Manager
 
-![alt text](https://drive.google.com/file/d/1kT7OaS5HlpZ-x8Si9J-zRfXGAWyJDJSg/view?usp=sharing)
+![alt text](https://www.google.com/imgres?imgurl=https%3A%2F%2Fi0.wp.com%2Fsamirbehara.com%2Fwp-content%2Fuploads%2F2019%2F05%2Fprometheus-architecture.png%3Ffit%3D1364%252C758%26ssl%3D1&imgrefurl=https%3A%2F%2Fsamirbehara.com%2F2019%2F05%2F30%2Fcloud-native-monitoring-with-prometheus%2F&tbnid=vlu73fIdL4TZHM&vet=12ahUKEwjqo4GH_pzwAhXWG98KHSdYBcsQMygCegUIARDGAQ..i&docid=2o-VSUJ0F9sbaM&w=1364&h=758&q=prometheus%20architecture&safe=off&ved=2ahUKEwjqo4GH_pzwAhXWG98KHSdYBcsQMygCegUIARDGAQ)
 
 ** ** 
    

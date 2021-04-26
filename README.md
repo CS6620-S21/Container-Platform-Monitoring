@@ -82,7 +82,7 @@ Container platform monitoring system will consist of 3 main components:
    * Grafana
    * Alert Manager
 
-![](https://drive.google.com/file/d/1kT7OaS5HlpZ-x8Si9J-zRfXGAWyJDJSg/view?usp=sharing)
+![alt text](https://drive.google.com/file/d/1kT7OaS5HlpZ-x8Si9J-zRfXGAWyJDJSg/view?usp=sharing)
 
 ** ** 
    
